@@ -1,0 +1,10 @@
+{
+	"name": "NearBuy Extension",
+	"version": "1.0",
+	"description": "Support Local, buy from local business nearby.",
+        "manifest_version": 2,
+	"browser_action":	{
+		"popup": "nearBuy.html"
+	}
+
+}
